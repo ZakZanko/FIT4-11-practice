@@ -1,8 +1,8 @@
 import React from 'react';
 import { Outlet } from 'react-router-dom';
 import { Suspense } from 'react';
-import Header from '../header/Header';
-import Container from '../base/Container';
+import Header from './components/header/Header';
+import Container from './components/base/Container';
 
 const Layout = () => {
   return (
