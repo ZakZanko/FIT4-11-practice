@@ -1,6 +1,6 @@
 import React from 'react';
 import css from './Navigation.module.css';
-import { ReactComponent as Loupe } from '../img/Group_1.svg';
+import Loupe from '../img/Group_1.png';
 import { ReactComponent as Url } from '../img/URL.svg';
 
 const navigation = () => {
@@ -8,7 +8,7 @@ const navigation = () => {
     <section className={css.navigation}>
       <div className={css.loupe}>
         {/* <img src={loupe} className={css.img__loupe} alt="loupe not fond" /> */}
-        <Loupe className={css.img__loupe}></Loupe>
+        <img className={css.img__loupe} src={Loupe} />
       </div>
       <div className={css.line}></div>
 
