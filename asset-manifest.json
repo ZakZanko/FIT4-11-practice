@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FIT4-11-practice/static/css/main.c263d4bc.css",
+    "main.js": "/FIT4-11-practice/static/js/main.0a264c7d.js",
+    "index.html": "/FIT4-11-practice/index.html",
+    "main.c263d4bc.css.map": "/FIT4-11-practice/static/css/main.c263d4bc.css.map",
+    "main.0a264c7d.js.map": "/FIT4-11-practice/static/js/main.0a264c7d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c263d4bc.css",
+    "static/js/main.0a264c7d.js"
+  ]
+}
