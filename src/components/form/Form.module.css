@@ -1,0 +1,136 @@
+.form_search {
+  display: flex;
+  flex-direction: column;
+  margin-top: 30px;
+  @media screen and (min-width: 667px) {
+    padding-top: 30px;
+    /* justify-content: space-around; */
+  }
+  @media screen and (min-width: 834px) {
+    padding-top: 50px;
+  }
+  @media screen and (min-width: 1024px) {
+    row-gap: 41px;
+  }
+}
+/* .info {
+  display: flex;
+  flex-direction: column;
+  @media screen and (min-width: 1024px) {
+    flex-direction: row;
+  }
+} */
+.input_label {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+.loupe_input {
+  position: absolute;
+  top: 62%;
+  left: 1%;
+}
+.btn_add {
+  width: 66px;
+  height: 32px;
+  background-color: #ffffff;
+  cursor: pointer;
+}
+.container_change {
+  display: flex;
+  justify-content: space-between;
+  align-items: end;
+}
+.input_search {
+  margin-top: 20px;
+  width: 216px;
+  height: 32px;
+  padding: 0 0 0 30px;
+  outline: none;
+  font-size: 15px;
+  border: 3px solid black;
+}
+.label_form {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 20px;
+  position: relative;
+}
+.btn_check {
+  position: absolute;
+  width: 50px;
+  height: 25px;
+  border: 3px solid #79747e;
+  background: #e6e0e9;
+  border-radius: 20px;
+  box-shadow: inset 1px 1px 2px #0000001a;
+  cursor: pointer;
+  right: 2%;
+}
+.switching {
+  display: block;
+  top: 8%;
+  left: 8%;
+  width: 16px;
+  position: absolute;
+  height: 16px;
+  transition: left 0.35s;
+  border-radius: 50%;
+  background-color: #79747e;
+}
+.switching_active {
+  display: block;
+  top: 8%;
+  left: 53%;
+  width: 16px;
+  position: absolute;
+  height: 16px;
+  border-radius: 50%;
+  transition: left 0.35s;
+  background-color: #ffffff;
+}
+.btn_check_active {
+  border: 3px solid #6750a4;
+  background: #6750a4;
+  position: absolute;
+  transition: background 0.35s;
+  width: 50px;
+  height: 25px;
+  border-radius: 20px;
+  box-shadow: inset 1px 1px 2px #0000001a;
+  cursor: pointer;
+  right: 2%;
+}
+.btn_information,
+.btn_submit {
+  height: 26px;
+  background-color: #ffffff;
+}
+.text_op {
+  margin-top: 30px;
+}
+.btn_information {
+  width: 75px;
+  font-size: 10px;
+  line-height: 10px;
+  margin-top: 30px;
+  cursor: pointer;
+}
+.btn_submit {
+  width: 84px;
+  font-size: 12px;
+  line-height: 12px;
+  cursor: pointer;
+}
+.line {
+  border: 3px solid #ffd809;
+  width: 100%;
+  margin-top: 50px;
+}
+.video_box {
+  margin-top: 50px;
+  width: 335px;
+  height: 188px;
+  background-color: aquamarine;
+}
