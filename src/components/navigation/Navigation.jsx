@@ -8,12 +8,12 @@ const navigation = () => {
     <section className={css.navigation}>
       <div className={css.loupe}>
         {/* <img src={loupe} className={css.img__loupe} alt="loupe not fond" /> */}
-        <img className={css.img__loupe} width={105} height={105} src={Loupe} />
+        <img className={css.img__loupe} src={Loupe} />
       </div>
       <div className={css.line}></div>
 
       <div className={css.url}>
-        <Url className={css.img__url}></Url>
+        <Url className={css.img__url} />
       </div>
     </section>
   );
