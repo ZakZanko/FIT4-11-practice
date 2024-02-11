@@ -4,7 +4,7 @@ import Loupe from '../img/Group_1.png';
 import { ReactComponent as Url } from '../img/URL.svg';
 import { Link } from 'react-router-dom/dist';
 
-const navigation = () => {
+const Navigation = () => {
   return (
     <section className={css.navigation}>
       <Link to="/search-name">
@@ -23,4 +23,4 @@ const navigation = () => {
   );
 };
 
-export default navigation;
+export default Navigation;
