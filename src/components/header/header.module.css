@@ -1,0 +1,18 @@
+.logo {
+  width: 139px;
+  height: 47px;
+}
+.container a:hover {
+  color: blue;
+}
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.header__link {
+  font-weight: 300;
+  font-size: 12px;
+  line-height: 14.4px;
+  color: grey;
+}
