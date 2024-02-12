@@ -9,7 +9,6 @@ const Navigation = () => {
     <section className={css.navigation}>
       <Link to="/search-name">
         <div className={css.loupe}>
-          {/* <img src={loupe} className={css.img__loupe} alt="loupe not fond" /> */}
           <img className={css.img__loupe} src={Loupe} alt="Loupe not found" />
         </div>
       </Link>

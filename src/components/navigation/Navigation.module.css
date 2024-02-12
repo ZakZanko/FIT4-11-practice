@@ -1,15 +1,3 @@
-/* .loupe {
-  border: 5px solid black;
-  border-spacing: 10px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-} */
-/* @media screen and (min-width: 667px) {
-  .navigation {
-    flex-direction: row;
-  }
-} */
 .navigation {
   display: flex;
   flex-direction: column;
@@ -56,9 +44,6 @@
   }
 }
 .line {
-  /* transform-origin: top left;
-  transform: rotate(-90deg);
-  border: 4px solid #ffd809; */
   border: 3px solid #ffd809;
   width: 100%;
   @media screen and (min-width: 667px) {
