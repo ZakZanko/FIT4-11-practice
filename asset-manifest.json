@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Practice-FIT4-11/static/css/main.41de9ed2.css",
-    "main.js": "/Practice-FIT4-11/static/js/main.b3bdd268.js",
-    "static/css/539.1e8deac7.chunk.css": "/Practice-FIT4-11/static/css/539.1e8deac7.chunk.css",
-    "static/js/539.4af291bd.chunk.js": "/Practice-FIT4-11/static/js/539.4af291bd.chunk.js",
-    "static/css/848.9fe75add.chunk.css": "/Practice-FIT4-11/static/css/848.9fe75add.chunk.css",
-    "static/js/848.8367b371.chunk.js": "/Practice-FIT4-11/static/js/848.8367b371.chunk.js",
-    "index.html": "/Practice-FIT4-11/index.html",
-    "static/media/URL.svg": "/Practice-FIT4-11/static/media/URL.313da334077d0f65b0bc7129ca8ead3c.svg",
-    "static/media/Loupe.svg": "/Practice-FIT4-11/static/media/Loupe.c562c67dd620bba8efd5aa230acb5bf8.svg",
-    "main.41de9ed2.css.map": "/Practice-FIT4-11/static/css/main.41de9ed2.css.map",
-    "main.b3bdd268.js.map": "/Practice-FIT4-11/static/js/main.b3bdd268.js.map",
-    "539.1e8deac7.chunk.css.map": "/Practice-FIT4-11/static/css/539.1e8deac7.chunk.css.map",
-    "539.4af291bd.chunk.js.map": "/Practice-FIT4-11/static/js/539.4af291bd.chunk.js.map",
-    "848.9fe75add.chunk.css.map": "/Practice-FIT4-11/static/css/848.9fe75add.chunk.css.map",
-    "848.8367b371.chunk.js.map": "/Practice-FIT4-11/static/js/848.8367b371.chunk.js.map"
+    "main.css": "/FIT4-11-practice/static/css/main.41de9ed2.css",
+    "main.js": "/FIT4-11-practice/static/js/main.222036db.js",
+    "static/css/539.1e8deac7.chunk.css": "/FIT4-11-practice/static/css/539.1e8deac7.chunk.css",
+    "static/js/539.ba77d4a7.chunk.js": "/FIT4-11-practice/static/js/539.ba77d4a7.chunk.js",
+    "static/css/848.9fe75add.chunk.css": "/FIT4-11-practice/static/css/848.9fe75add.chunk.css",
+    "static/js/848.d7807adc.chunk.js": "/FIT4-11-practice/static/js/848.d7807adc.chunk.js",
+    "index.html": "/FIT4-11-practice/index.html",
+    "static/media/URL.svg": "/FIT4-11-practice/static/media/URL.313da334077d0f65b0bc7129ca8ead3c.svg",
+    "static/media/Loupe.svg": "/FIT4-11-practice/static/media/Loupe.c562c67dd620bba8efd5aa230acb5bf8.svg",
+    "main.41de9ed2.css.map": "/FIT4-11-practice/static/css/main.41de9ed2.css.map",
+    "main.222036db.js.map": "/FIT4-11-practice/static/js/main.222036db.js.map",
+    "539.1e8deac7.chunk.css.map": "/FIT4-11-practice/static/css/539.1e8deac7.chunk.css.map",
+    "539.ba77d4a7.chunk.js.map": "/FIT4-11-practice/static/js/539.ba77d4a7.chunk.js.map",
+    "848.9fe75add.chunk.css.map": "/FIT4-11-practice/static/css/848.9fe75add.chunk.css.map",
+    "848.d7807adc.chunk.js.map": "/FIT4-11-practice/static/js/848.d7807adc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.41de9ed2.css",
-    "static/js/main.b3bdd268.js"
+    "static/js/main.222036db.js"
   ]
 }
