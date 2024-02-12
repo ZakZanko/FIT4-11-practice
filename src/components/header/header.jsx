@@ -3,7 +3,7 @@ import css from './Header.module.css';
 import logo from '../img/image_1.png';
 import { Link } from 'react-router-dom/dist';
 
-const Header = () => {
+const header = () => {
   return (
     <div className={css.container}>
       <Link to="/">
@@ -20,4 +20,4 @@ const Header = () => {
     </div>
   );
 };
-export default Header;
+export default header;
